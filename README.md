@@ -13,7 +13,7 @@ This Discord bot utilizes Google's Gemini AI model to automatically moderate nic
 ## Setup
 
 1. **Create a Discord Bot:** 
-    * Visit the Discord Developer Portal: [[https://discord.com/developers/applications](https://discord.com/developers/applications)](https://aistudio.google.com/app/apikey)
+    * Visit the Discord Developer Portal: [https://discord.com/developers/applications](https://discord.com/developers/applications)
     * Create a new application.
     * Navigate to the "Bot" tab and click "Add Bot".
     * Copy the bot token (keep it secret!)
