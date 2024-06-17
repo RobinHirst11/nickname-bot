@@ -19,7 +19,7 @@ This Discord bot utilizes Google's Gemini AI model to automatically moderate nic
     * Copy the bot token (keep it secret!)
 
 2. **Obtain Google Gemini API Key:**
-    * Sign up for the Gemini API: [[https://cloud.google.com/generative-ai/docs/getting-started](https://cloud.google.com/generative-ai/docs/getting-started)](https://aistudio.google.com/app/apikey)
+    * Sign up for the Gemini API: [https://aistudio.google.com/app/apikey]
     * Create a new API key.
 
 3. **Set Environment Variables:**
